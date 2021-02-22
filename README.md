@@ -1,5 +1,6 @@
 # dev-environment-lab
-[Imgur](https://i.imgur.com/a8ZZuC5.png)
+![alt text](https://i.imgur.com/a8ZZuC5.png)
+
 ## OS
 
 darwin20.0
